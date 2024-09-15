@@ -1,4 +1,4 @@
-# CodeLearningWebsite
+# CodeWebsiteProject
 Overview: CodeWebsiteProject is an educational web application designed to provide lessons, quizzes, and tests to users, facilitating their learning and progress in coding concepts. The application incorporates interactive elements to engage users and track their progress through various learning modules.  
 
 Features: 
